@@ -1,0 +1,27 @@
+{
+  "name": "donasi-baitulmaalku",
+  "version": "1.0.0",
+  "description": "web donasi bmku",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.je"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAYDENFLY/donasi-baitulmaalku.git"
+  },
+  "keywords": [
+    "donasi"
+  ],
+  "author": "RAYDENFLY (Azis Maulana)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RAYDENFLY/donasi-baitulmaalku/issues"
+  },
+  "homepage": "https://github.com/RAYDENFLY/donasi-baitulmaalku#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
